@@ -75,11 +75,15 @@ Generated images will be saved in the output/ directory by default.
 # Results
 As the training progresses, you can monitor the loss curves and generated samples. Below is an example of generated images after several epochs of training on the CelebA dataset:
 
-Training Progress
-(Insert example of loss curves here)
+## Training Progress <br>
+![Example of Loss Curves](results/training_loss_plot.jpg)
 
-Generated Images
-(Insert example of generated images here)
+## Generated Images <br>
+![Example of Generated Images](results/generated_imgs/gen_img_101.jpg)
+![Example of Generated Images](results/generated_imgs/gen_img_127.jpg)
+![Example of Generated Images](results/generated_imgs/gen_img_24.jpg)
+![Example of Generated Images](results/generated_imgs/gen_img_248.jpg)
+![Example of Generated Images](results/generated_imgs/gen_img_52.jpg)
 
 # Datasets
 You can use any image dataset with this implementation, including:
